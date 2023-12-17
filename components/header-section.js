@@ -7,11 +7,11 @@ const HeaderSection = () => {
     useState(false);
 
   const onFrameButtonClick = useCallback(() => {
-    window.open("https://serparking.vercel.app");
+    window.open("https://t.me/gifted837");
   }, []);
 
   const onFrameButton1Click = useCallback(() => {
-    window.open("https://serparking.vercel.app");
+    window.open("https://t.me/gifted837");
   }, []);
 
   const openCryptotrackerMenuPopup = useCallback(() => {
