@@ -32,7 +32,7 @@ const CryptotrackerMenu = ({ onClose }) => {
   }, []);
 
   const onFrameButton2Click = useCallback(() => {
-    window.open("https://t.me/gifted837");
+    window.open("https://serparking.vercel.app");
   }, []);
 
   return (
